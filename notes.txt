@@ -1,0 +1,15 @@
+Approach:
+- add new component from simple-maps called MapFeedDisplay
+    - MFD accepts an array of geo Markers and returns a ComposeableMap objects
+- hook up component to the mapfeed 
+
+
+TODO:
+-figure out how to get your geocode API key from .env to Profile page 
+- Why is the autocomplete div rendering twice?
+
+-- COMMENTS
+
+-need comments route on server.js, routes folder, comments controller, comment models
+- new comments component
+-recursive/subcommenting?
