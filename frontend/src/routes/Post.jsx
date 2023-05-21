@@ -138,7 +138,7 @@ export default function Post() {
 					<CommentTree comments={comments} />
 					<div className="col-6 mt-5">
 						<Link className="btn btn-primary" to="/profile">Return to Profile</Link>
-						<Link className="btn btn-primary" to="/feed">Return to Feed</Link>
+						<Link className="btn btn-secondary" to="/feed">Return to Feed</Link>
 					</div>
 				</div>
 			</div>
